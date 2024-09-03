@@ -1,0 +1,30 @@
+--------------------------------------------------------
+
+for fish that you can pick up or have in your inventory use the spawnnames.txt file and change it to (item <name here>)
+B = blank cube
+
+--------------------------------------------------------
+
+Gargantuan Egg = gargantuanegg
+Alien Builder Tool = precursorbuilder
+Ion Knife = ionknife
+Ghost leviathan skeleton B = GhostLeviathanSkeleton 
+Craig poster = CraigPoster
+Gargantuan poster (placeholder name) = GargantuanPoster
+Gargantuan Leviathan Juvenile Toy = GargantuanJuvenileToy
+Gargantuan Leviathan Adult Toy = GargantuanAdultToy
+Handheld Warping Device = WarpCannon
+
+--------------------------------------------------------
+
+Modules
+
+--------------------------------------------------------
+
+Prawn Suit Ion Dash Module = ExosuitDashModule
+Prawn Suit Ion Defense Module = ExosuitZapModule
+Seamoth Ion Perimeter Defense System = SeamothElectricalDefenseMK2
+Creature Decoy MK2 = CyclopsDecoyMk2
+Cyclops Scanner Module = CyclopsScannerModule
+Cyclops Scanner Module MK2 = CyclopsScannerModuleMK2
+Cyclops Ion Booster Module = CyclopsIonBoosterModule

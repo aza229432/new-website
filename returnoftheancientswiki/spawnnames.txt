@@ -1,0 +1,9 @@
+B = blank cube
+----------------------
+
+Gargantuan Leviathan = gargantuanvoid
+Gargantuan Juvenile = gargantuanjuvenile
+Gargantuan Baby = gargantuanbaby
+Unknown Fish = AquariumGuppy
+Ghost leviathan skeleton B = GhostLeviathanSkeleton 
+Alpha Peeper = AlphaPeeper (add a number 1-5 for different variants example: spawn alphapeeper3)
